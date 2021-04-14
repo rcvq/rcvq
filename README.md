@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! My name is rcvq and here you can see some of my projects
+
+Currently I am making an Action/Adventure game <br>
+
+My major intrests are world history and literature <br>
+
+The pronouns I use are She/Her <br>
 
 <!--
 **rcvq/rcvq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
