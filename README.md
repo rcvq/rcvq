@@ -1,10 +1,6 @@
 ### Hello! My name is rcvq and here you can see some of my projects
 
-Currently I am making a Client for Minecraft <br>
-
-My major intrests are world history and literature <br>
-
-The pronouns I use are She/Her <br>
+jk get trolloled
 
 <!--
 **rcvq/rcvq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
