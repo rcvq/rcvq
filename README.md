@@ -1,6 +1,6 @@
 ### Hello! My name is rcvq and here you can see some of my projects
 
-Currently I am making an Action/Adventure game <br>
+Currently I am making a Client for Minecraft <br>
 
 My major intrests are world history and literature <br>
 
