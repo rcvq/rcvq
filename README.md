@@ -1,6 +1,5 @@
 ### Hello! My name is rcvq and here you can see some of my projects
 
-jk get trolloled
 
 <!--
 **rcvq/rcvq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
